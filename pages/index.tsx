@@ -1,7 +1,21 @@
+import Head from 'next/head';
+import React from 'react';
+import Header from '../components/Header';
+
 function Home() {
   return (
-    <div className='text-center my-24 font-black tracking-tight text-6xl'>
-      Hello World!
+    <div className=''>
+      <Head>
+        <title>andygram</title>
+        <link rel='icon' href='/instagram.ico' />
+      </Head>
+
+      {/* Header */}
+      <Header />
+
+      {/* Feed */}
+
+      {/* Modal */}
     </div>
   );
 }
