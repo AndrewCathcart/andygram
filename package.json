@@ -1,15 +1,14 @@
 {
   "name": "andygram",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Instagram clone built using TypeScript, Next & Tailwind CSS",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start"
   },
   "keywords": [],
-  "author": "",
+  "author": "Andrew Cathcart",
   "license": "ISC",
   "dependencies": {
     "autoprefixer": "^10.4.0",
