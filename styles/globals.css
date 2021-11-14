@@ -4,6 +4,6 @@
 
 @layer components {
   .nav-btn {
-    @apply hidden h-8 md:inline-flex cursor-pointer hover:scale-110 duration-150 ease-out;
+    @apply hidden h-6 md:inline-flex cursor-pointer hover:scale-110 duration-150 ease-out;
   }
 }
